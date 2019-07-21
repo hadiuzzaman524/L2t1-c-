@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542824464 source:f:\c++ programs\read text with gerline\main.cpp
+	<iostream>
+	<string>
+

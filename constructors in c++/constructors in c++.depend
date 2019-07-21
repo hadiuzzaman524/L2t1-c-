@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1543665615 source:e:\c++ programs\constructors in c++\main.cpp
+	<iostream>
+	"Account.h"
+
+1543665615 e:\c++ programs\constructors in c++\include\account.h
+	<string>
+
+1543665763 source:e:\c++ programs\constructors in c++\src\account.cpp
+	"Account.h"
+	<iostream>
+

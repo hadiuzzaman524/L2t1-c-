@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543896476 source:e:\standard template library\priority_queue\main.cpp
+	<iostream>
+	<queue>
+	<string>
+

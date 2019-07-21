@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543379319 source:e:\c++ programs\used of structurw\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+

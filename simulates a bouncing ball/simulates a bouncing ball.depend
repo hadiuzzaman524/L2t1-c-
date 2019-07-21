@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542929161 source:f:\c++ programs\simulates a bouncing ball\main.cpp
+	<iostream>
+	<string>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543134471 source:f:\c++ programs\random number with function\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+

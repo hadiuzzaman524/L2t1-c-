@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1543722317 source:e:\c++ programs\14.exercise 1 constructor\main.cpp
+	<iostream>
+	"Article.h"
+	<string>
+
+1543723179 e:\c++ programs\14.exercise 1 constructor\include\article.h
+	"Article.h"
+	<string>
+
+1543723384 source:e:\c++ programs\14.exercise 1 constructor\src\article.cpp
+	"Article.h"
+	<iostream>
+	<iomanip>
+

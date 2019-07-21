@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1543320469 source:e:\c++ programs\class example\main.cpp
+	<iostream>
+	<string>
+	"Account.h"
+
+1543320180 e:\c++ programs\class example\include\account.h
+	<iostream>
+	<string>
+
+1543320307 source:e:\c++ programs\class example\src\account.cpp
+	"Account.h"
+	<iostream>
+	<iomanip>
+	<string>
+

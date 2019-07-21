@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1543377861 source:e:\c++ programs\class exercise\main.cpp
+	<iostream>
+	"student.h"
+	<string>
+
+1543377718 e:\c++ programs\class exercise\include\student.h
+	<iostream>
+
+1543377765 source:e:\c++ programs\class exercise\src\student.cpp
+	"student.h"
+	<iostream>
+	<string>
+

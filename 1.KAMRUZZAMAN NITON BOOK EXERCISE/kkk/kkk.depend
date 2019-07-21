@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547726263 source:e:\c++ programs\1.kamruzzaman niton book exercise\kkk\main.cpp
+	<iostream>
+	<vector>
+	<iterator>
+

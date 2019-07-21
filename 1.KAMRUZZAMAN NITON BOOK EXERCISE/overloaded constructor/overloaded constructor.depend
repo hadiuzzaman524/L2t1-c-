@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546340891 source:e:\c++ programs\1.kamruzzaman niton book exercise\overloaded constructor\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+

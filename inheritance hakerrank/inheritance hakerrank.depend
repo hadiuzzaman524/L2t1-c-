@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556099872 source:e:\c++ programs\inheritance hakerrank\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+

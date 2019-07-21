@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1542678366 source:f:\c++ programs\destructors\main.cpp
+	<iostream>
+	"student.h"
+
+1542678366 f:\c++ programs\destructors\include\student.h
+	"student.h"
+
+1542678376 source:f:\c++ programs\destructors\src\student.cpp
+	"student.h"
+	<iostream>
+

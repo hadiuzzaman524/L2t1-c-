@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542678771 source:f:\c++ programs\selection operator\main.cpp
+	<iostream>
+	"myfirstclass.h"
+
+1542678771 f:\c++ programs\selection operator\include\myfirstclass.h
+

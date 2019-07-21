@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1542677612 source:f:\c++ programs\class with dif\src\student.cpp
+	<iostream>
+	"student.h"
+
+1542677456 f:\c++ programs\class with dif\include\student.h
+	"student.h"
+

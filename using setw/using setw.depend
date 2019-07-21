@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542810580 source:f:\c++ programs\using setw\main.cpp
+	<iostream>
+	<iomanip>
+

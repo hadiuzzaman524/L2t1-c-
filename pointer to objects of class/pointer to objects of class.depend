@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1543321852 source:e:\c++ programs\pointer to objects of class\src\account.cpp
+	"Account.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1543321852 e:\c++ programs\pointer to objects of class\include\account.h
+	<iostream>
+	<string>
+
+1543322524 source:e:\c++ programs\pointer to objects of class\main.cpp
+	"Account.h"
+

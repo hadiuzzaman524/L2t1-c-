@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542825534 source:f:\c++ programs\4.exercises 5\main.cpp
+	<iostream>
+	<iomanip>
+
